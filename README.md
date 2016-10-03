@@ -21,7 +21,7 @@ This script requires [jQuery](http://jquery.com/), [jQuery UI](http://jqueryui.c
 
 ## Demo
 
-http://JefMari.github.com/week-polyfill/demo.html
+https://jefmari.github.io/week-polyfill/demo.html
 
 ## See also
 
